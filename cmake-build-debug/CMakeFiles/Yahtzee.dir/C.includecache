@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/METU/CNG 140/Assignment 2/Yahtzee/Yacht.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+time.h
+-
+
